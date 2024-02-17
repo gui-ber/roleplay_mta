@@ -1,0 +1,9 @@
+<meta>
+	<info name="Teste de Modelagens" author="ber#8813" />
+	<min_mta_version server="1.5.9" client="1.5.9" />
+	<script src="replace.lua" type="client" />
+
+	<file src="assets/txd/model.col" />
+	<file src="assets/txd/model.txd" />
+	<file src="assets/txd/model.dff" />
+</meta>

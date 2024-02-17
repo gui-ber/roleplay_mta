@@ -1,0 +1,8 @@
+<meta>
+	<info name="Remover Sujeira Veículos" author="ber#8813" />
+	<min_mta_version server="1.5.9" client="1.5.9" />
+
+	<script src="c_main.lua" type="client" cache="false" />
+
+	<file src="assets/gfx/nogrunge.png" />
+</meta>

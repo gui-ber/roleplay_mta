@@ -1,0 +1,13 @@
+<meta>
+	<info name="Status do Player" author="ber#8813" />
+	<min_mta_version server="1.5.9" client="1.5.9" />
+
+	<script src="assets/lib/async.lua" type="shared" />
+	<script src="settings.lua" type="shared" />
+	<script src="c_speed.lua" type="client" />
+	<script src="s_speed.lua" type="server" />
+	<script src="s_hunger.lua" type="server" />
+
+	<export function="giveEnergy" type="server" />
+	<export function="giveCalm" type="server" />
+</meta>

@@ -1,0 +1,13 @@
+<meta>
+	<info name="Marker 3D" author="ber#8813" />
+	<min_mta_version server="1.5.9" client="1.5.9" />
+	<download_priority_group> 99 </download_priority_group>
+
+	<script src="c_main.lua" type="client" />
+	<script src="s_main.lua" type="server" />
+
+	<file src="assets/gfx/circle.png" />
+	<file src="assets/gfx/door.png" />
+
+	<export function="addMarker" type="server" />
+</meta>
