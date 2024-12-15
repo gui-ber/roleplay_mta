@@ -31,9 +31,13 @@ A instalação do projeto localmente para testes é muito complexa e exige inclu
 ![MTA_ San Andreas 2024-12-15 19-39-59](https://github.com/user-attachments/assets/5a5b9429-f4cc-4f48-b483-0980df2d4a9e)
 
 ### Concessionária
-
-### Velocímetro
+![MTA_ San Andreas 2024-12-15 19-40-51](https://github.com/user-attachments/assets/5809e95d-abf7-4d95-a2af-b94f0fd2e3aa)
 
 ### Interação
+![MTA_ San Andreas 2024-12-15 19-42-07](https://github.com/user-attachments/assets/187e1015-83cd-4266-adc0-62afb40d98c7)
+
+### Velocímetro
+![MTA_ San Andreas 2024-12-15 19-43-00](https://github.com/user-attachments/assets/2718d2bf-7335-4ac3-8ac5-94dac81a4991)
 
 ### Controle de Veículos
+![MTA_ San Andreas 2024-12-15 19-43-36](https://github.com/user-attachments/assets/e93a452b-43ea-44fb-8d4d-8afea91e5e91)
