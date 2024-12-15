@@ -1,5 +1,0 @@
-<meta>
-	<info name="Bala de Borracha" author="ber#8813" />
-	<min_mta_version server="1.5.9" client="1.5.9" />
-	<script src="client.lua" type="client" cache="false" />
-</meta>

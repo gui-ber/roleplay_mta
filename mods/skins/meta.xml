@@ -1,7 +1,0 @@
-<meta>
-	<info name="Replace Skins" author="ber#8813" />
-	<min_mta_version server="1.5.9" client="1.5.9" />
-	<script src="replace.lua" type="client" cache="false" />
-	<file src="assets/txd/1.dff" />
-	<file src="assets/txd/1.txd" />
-</meta>

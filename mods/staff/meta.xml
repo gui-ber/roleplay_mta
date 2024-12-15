@@ -1,7 +1,0 @@
-<meta>
-	<info name="Comandos Staff" author="ber#8813" />
-	<min_mta_version server="1.5.9" client="1.5.9" />
-	<script src="util.lua" type="shared" />
-	<script src="client.lua" type="client" />
-	<script src="server.lua" type="server" />
-</meta>
