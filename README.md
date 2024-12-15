@@ -22,4 +22,17 @@ O ano era 2019, eu estava indo para meu segundo semestre na graduação de Siste
 
 O desenvolvimento foi realizado apenas por mim, o que levou 1 ano e meio até sua versão final. Disponibilizado no meio de 2020, no auge da pandemia do COVID-19, o servidor foi um sucesso. Nos primeiros dias o servidor já contava com 150 jogadores online. Em dias de eventos, chegava a alcançar até 500 online, o que o tornava o servidor brasileiro com mais jogadores simultâneos.
 
-O projeto perdurou por 2 anos, foi encerrado por motivos pessoais e pela dificuldade em administrar e desenvolver sozinho enquanto tocava minha vida acadêmica, profissional e pessoal.
+O projeto ficou ativo por 3 anos, foi encerrado por motivos pessoais e pela dificuldade em administrar e desenvolver sozinho enquanto tocava minha vida acadêmica, profissional e pessoal. Com o anúncio do fim do servidor, um outro servidor demonstrou interesse em adquirir os códigos e criar uma fusão entre o Noxus e o seu servidor, que encontra-se online com uma média de 300 players diários até os dias de hoje, muito disso por conta dos sistemas herdados do Noxus Roleplay.
+
+## Sistemas
+
+# Inventário
+
+# Concessionária
+
+# Velocímetro
+![MTA_ San Andreas 2024-12-15 17-00-25](https://github.com/user-attachments/assets/08c611ee-2e43-4e7b-95ad-d05ba51e23b5)
+
+# Interação
+
+# Controle de Veículos
