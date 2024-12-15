@@ -25,13 +25,14 @@ O desenvolvimento foi realizado apenas por mim, o que levou 1 ano e meio até su
 O projeto ficou ativo por 3 anos, foi encerrado por motivos pessoais e pela dificuldade em administrar e desenvolver sozinho enquanto tocava minha vida acadêmica, profissional e pessoal. Com o anúncio do fim do servidor, um outro servidor demonstrou interesse em adquirir os códigos e criar uma fusão entre o Noxus e o seu servidor, que encontra-se online com uma média de 300 players diários até os dias de hoje, muito disso por conta dos sistemas herdados do Noxus Roleplay.
 
 ## Sistemas
+A instalação do projeto localmente para testes é muito complexa e exige inclusive a instalação de um jogo pago (GTA San Andreas), portanto aqui irei trazer apenas um compilado dos sistemas mais interessantes presentes no servidor, uma breve descrição e imagens dos mesmos, porém os códigos estão disponíveis no repositório para análise.
 
 ### Inventário
+![MTA_ San Andreas 2024-12-15 19-39-59](https://github.com/user-attachments/assets/5a5b9429-f4cc-4f48-b483-0980df2d4a9e)
 
 ### Concessionária
 
 ### Velocímetro
-![MTA_ San Andreas 2024-12-15 19-28-04 (1)](https://github.com/user-attachments/assets/4a21297f-18dd-4c9b-884f-d9b705941aff)
 
 ### Interação
 
